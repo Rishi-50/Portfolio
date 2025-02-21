@@ -255,10 +255,10 @@
 
 // Typed.JS animations
 var typed = new Typed('#element', {
-  strings: ['<b>Software Developer</b>','<b>Data Scientist</b> ','<b>Machine Learning Engineer</b>'],
-  typeSpeed: 100,
+  strings: ['<b>Backend Developer</b>','<b>Data Scientist</b> '],
+  typeSpeed: 120,
   loop: true,
   fadeOut: false,
   fadeOutClass: 'typed-fade-out',
-  fadeOutDelay: 700,
+  fadeOutDelay: 900,
 });
